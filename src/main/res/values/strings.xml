@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="submit">Submit</string>
+    <string name="placeholder_text">Placeholder text is a lot of text that allows us to see how the content will look in the device in preview mode before we actually run the application in the emulator.</string>
+</resources>
